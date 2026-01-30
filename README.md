@@ -1,10 +1,10 @@
-## UI Chanllenge Installation
+## UI Challenge Installation
 ### Git Clone
 ```
 git clone https://github.com/aungkyawminhtet/Fylo-dark-theme-landing-page.git
 ```
 
-### Node Package install
+### Node Package installation
 ```
 npm i
 ```
